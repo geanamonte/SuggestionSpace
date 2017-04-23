@@ -5,6 +5,8 @@
 		<jta-data-source>java:/jboss/datasources/SuggestionSpace</jta-data-source>
 		<class>dwws.suggestionspace.domain.User</class>
 		<class>dwws.suggestionspace.domain.Content</class>
+		<class>dwws.suggestionspace.util.DomainObjectImpl</class>
+		<class>dwws.suggestionspace.util.PersistentObjectImpl</class>
 		<properties>
 			<property name="hibernate.hbm2ddl.auto" value="create"/>
 		</properties>
