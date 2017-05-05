@@ -36,5 +36,14 @@ public class UserJPADAO extends BaseJPADAO<User> implements UserDAO{
 		cq.where(cb.like(cb.lower(root.get(User_.name)), "%" + name.toLowerCase() + "%"));
 		return em.createQuery(cq).getResultList();
 	}
+
+	@Override
+	public List<User> findByEmail(String email) {
+		CriteriaBuilder cb = em.getCriteriaBuilder();
+		CriteriaQuery<User> cq = cb.createQuery(User.class);
+		Root<User> root = cq.from(User.class);
+		cq.where(cb.like(cb.lower(root.get(User_.email)), "%" + email.toLowerCase() + "%"));
+		return em.createQuery(cq).getResultList();
+	}
 	
 }

@@ -9,4 +9,5 @@ import dwws.suggestionspace.util.*;
 @Local
 public interface UserDAO extends BaseDAO<User> {
 	List<User> findByName(String name);
+	List<User> findByEmail(String email);
 }
