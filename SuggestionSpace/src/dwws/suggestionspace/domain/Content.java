@@ -2,12 +2,15 @@ package dwws.suggestionspace.domain;
 
 import javax.persistence.*;
 
-import dwws.suggestionspace.util.*;
+import br.ufes.inf.nemo.jbutler.ejb.persistence.PersistentObjectSupport;
 
 @Entity
-public class Content extends PersistentObjectImpl{
+public class Content extends PersistentObjectSupport{
 	/**
 	 * 
 	 */
+	@Id
+	@GeneratedValue(strategy = GenerationType.AUTO)
+	private Long id;
 	private static final long serialVersionUID = 1L;
 }

@@ -3,6 +3,8 @@
 	<persistence-unit name="SuggestionSpace">
 		<provider>org.hibernate.ejb.HibernatePersistence</provider>
 		<jta-data-source>java:/jboss/datasources/SuggestionSpace</jta-data-source>
+		<class>dwws.suggestionspace.domain.User</class>
+		<class>dwws.suggestionspace.domain.Content</class>
 		<properties>
 			<property name="hibernate.hbm2ddl.auto" value="update"/>
 		</properties>

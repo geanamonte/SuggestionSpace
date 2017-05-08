@@ -2,15 +2,18 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"
 	xmlns:ui="http://java.sun.com/jsf/facelets"
-	xmlns:h="http://java.sun.com/jsf/html">
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui"
+	xmlns:f="http://java.sun.com/jsf/core">
 
 <h:head>
 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<link
-		href="#{facesContext.externalContext.requestContextPath}/resources/templatess_style.css"
+		href="#{facesContext.externalContext.requestContextPath}/resources/template.css"
 		rel="stylesheet" type="text/css" />
-	<title><h:outputText value="JavaHostel :: " /><ui:insert name="title" /></title>
+	<title><h:outputText value="Suggestion Space :: " /><ui:insert
+			name="title" /></title>
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<meta http-equiv="X-UA-Conpatible" content="IE=edge" />
 	<h:outputStylesheet library="css" name="bootstrap.min.css"></h:outputStylesheet>
@@ -22,35 +25,97 @@
 		<div class="navbar navbar-inverse">
 			<div class="navbar-brand">Suggestion Space</div>
 		</div>
-	</div><!-- HEADER END -->
-	
+	</div>
+	<!-- HEADER END -->
+
 	<div id="templatess_banner">
-    <div id="templatess_menu">
-            <ul class="nav nav-pills">
-                <li class="active"><a href="#{facesContext.externalContext.requestContextPath}/">Home</a></li>
-                <li class="disabled"><a href="#{facesContext.externalContext.requestContextPath}/">Login</a></li>
-            </ul>  
-    </div>
-    </div>
-    
+		<div id="templatess_menu">
+			<!--  <ul class="nav nav-pills"> 
+				<li class="active"><a
+					href="#{facesContext.externalContext.requestContextPath}/">Home</a></li>
+				<li class="disabled"><a
+					href="#{facesContext.externalContext.requestContextPath}/">Login</a></li>
+			</ul> -->
+			<div class="container">
+			<h:form>
+				<p:growl id="messages" />
+
+				<p:menubar>
+					<p:submenu label="File" icon="ui-icon-document">
+						<p:submenu label="New" icon="ui-icon-contact">
+							<p:menuitem value="Project" url="#" />
+							<p:menuitem value="Other" url="#" />
+						</p:submenu>
+						<p:menuitem value="Open" url="#" />
+						<p:separator />
+						<p:menuitem value="Quit" url="#" />
+					</p:submenu>
+
+					<p:submenu label="Edit" icon="ui-icon-pencil">
+						<p:menuitem value="Undo" url="#"
+							icon="ui-icon-arrowreturnthick-1-w" />
+						<p:menuitem value="Redo" url="#"
+							icon="ui-icon-arrowreturnthick-1-e" />
+					</p:submenu>
+
+					<p:submenu label="Help" icon="ui-icon-help">
+						<p:menuitem value="Contents" url="#" />
+						<p:submenu label="Search" icon="ui-icon-search">
+							<p:submenu label="Text">
+								<p:menuitem value="Workspace" url="#" />
+							</p:submenu>
+							<p:menuitem value="File" url="#" />
+						</p:submenu>
+					</p:submenu>
+
+					<p:submenu label="Actions" icon="ui-icon-gear">
+						<p:submenu label="Ajax" icon="ui-icon-refresh">
+							<p:menuitem value="Save" actionListener="#"
+								icon="ui-icon-disk" update="messages" />
+							<p:menuitem value="Update" actionListener="#"
+								icon="ui-icon-arrowrefresh-1-w" update="messages" />
+						</p:submenu>
+						<p:submenu label="Non-Ajax" icon="ui-icon-newwin">
+							<p:menuitem value="Delete" actionListener="#"
+								icon="ui-icon-close" update="messages" ajax="false" />
+						</p:submenu>
+					</p:submenu>
+
+					<p:menuitem value="Quit" url="http://www.primefaces.org"
+						icon="ui-icon-close" />
+
+					<f:facet name="options">
+						<p:inputText style="margin-right:10px" placeholder="Search" />
+						<p:commandButton type="button" value="Logout"
+							icon="ui-icon-extlink" />
+					</f:facet>
+				</p:menubar>
+				</h:form>
+				</div>
+		</div>
+	</div>
+
 	<div id="templatess_content">
-    
-    	<div id="content_left">
-        	<div class="content_left_section">
-            	
-                <div class="cleaner">&nbsp;</div>
-            </div> <!-- end of booking -->
-            
-            <div class="cleaner_h30">&nbsp;</div>
-            <div class="cleaner_horizontal_divider_01">&nbsp;</div>
-        </div> <!-- end of content left -->
-        
-        <div id="content_right">
-        	<ui:insert name="contents">Blank page.</ui:insert>
-        </div> <!-- end of content right -->
-        
-        <div class="cleaner">&nbsp;</div>
-    </div>
+
+		<div id="content_left">
+			<div class="content_left_section">
+
+				<div class="cleaner">&nbsp;</div>
+			</div>
+			<!-- end of booking -->
+
+			<div class="cleaner_h30">&nbsp;</div>
+			<div class="cleaner_horizontal_divider_01">&nbsp;</div>
+		</div>
+		<!-- end of content left -->
+
+		<div id="content_right">
+			<ui:insert name="contents">Blank page.</ui:insert>
+		</div>
+		<!-- end of content right -->
+
+		<div class="cleaner">&nbsp;</div>
+	</div>
 </h:body>
 
 </html>

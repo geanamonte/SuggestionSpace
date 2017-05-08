@@ -7,7 +7,7 @@ import javax.persistence.*;
 import javax.persistence.criteria.*;
 
 import dwws.suggestionspace.domain.*;
-import dwws.suggestionspace.util.*;
+import br.ufes.inf.nemo.jbutler.ejb.persistence.*;
 
 @Stateless
 public class UserJPADAO extends BaseJPADAO<User> implements UserDAO{
@@ -25,7 +25,7 @@ public class UserJPADAO extends BaseJPADAO<User> implements UserDAO{
 	}
 
 	@Override
-	protected Class<User> getDomainClass() {
+	public Class<User> getDomainClass() {
 		return User.class;
 	}
 	@Override
