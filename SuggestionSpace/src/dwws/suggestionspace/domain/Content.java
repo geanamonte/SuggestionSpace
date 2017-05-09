@@ -9,8 +9,5 @@ public class Content extends PersistentObjectSupport{
 	/**
 	 * 
 	 */
-	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-	private Long id;
 	private static final long serialVersionUID = 1L;
 }

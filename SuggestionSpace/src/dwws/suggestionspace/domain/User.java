@@ -11,9 +11,6 @@ public class User extends PersistentObjectSupport{
 	/**
 	 * 
 	 */
-	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
-	private Long id;
 	private static final long serialVersionUID = 1L;
 	private String name, email,pwd;
 	private Date birthDate;
