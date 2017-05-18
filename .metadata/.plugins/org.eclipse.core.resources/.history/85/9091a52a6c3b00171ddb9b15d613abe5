@@ -1,0 +1,12 @@
+package br.ufes.inf.nemo.marvin.core.application;
+
+import javax.annotation.security.PermitAll;
+import javax.ejb.*;
+
+import br.ufes.inf.nemo.jbutler.ejb.application.CrudService;
+import br.ufes.inf.nemo.marvin.core.domain.User;
+@Stateless
+@PermitAll
+public interface ManageUsersService extends CrudService<User> {
+	@EJB private UserDAO userDAO;
+}	

@@ -1,0 +1,5 @@
+package br.ufes.inf.nemo.marvin.core.domain;
+
+public class Content {
+
+}

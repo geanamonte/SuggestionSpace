@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.ufes.inf.nemo.jbutler.ejb.persistence.BaseDAO"/>
+<fullyQualifiedTypeName name="dwws.suggestionspace.domain.Content"/>
+<fullyQualifiedTypeName name="br.ufes.inf.nemo.jbutler.ejb.persistence.PersistentObjectSupport"/>
+<fullyQualifiedTypeName name="dwws.suggestionspace.util.BaseDAO"/>
+<fullyQualifiedTypeName name="dwws.suggestionspace.util.BaseJPADAO"/>
+<fullyQualifiedTypeName name="dwws.suggestionspace.util.PersistentObjectImpl"/>
+<fullyQualifiedTypeName name="dwws.suggestionspace.persistence.UserDAO"/>
+<fullyQualifiedTypeName name="dwws.suggestionspace.domain.User"/>
+<fullyQualifiedTypeName name="dwws.suggestionspace.application.ManageUsersService"/>
+<fullyQualifiedTypeName name="br.ufes.inf.nemo.marvin.core.persistence.UserDAO"/>
+<fullyQualifiedTypeName name="javax.annotation.security.PermitAll"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.inject.Named"/>
+<fullyQualifiedTypeName name="javax.faces.bean.SessionScoped"/>
+<fullyQualifiedTypeName name="javax.enterprise.context.SessionScoped"/>
+<fullyQualifiedTypeName name="br.ufes.inf.nemo.marvin.core.domain.User"/>
+<fullyQualifiedTypeName name="br.ufes.inf.nemo.jbutler.ejb.application.filters.LikeFilter"/>
+<fullyQualifiedTypeName name="br.ufes.inf.nemo.marvin.core.application.ManageUsersService"/>
+<fullyQualifiedTypeName name="javax.ejb.EJB"/>
+</qualifiedTypeNameHistroy>

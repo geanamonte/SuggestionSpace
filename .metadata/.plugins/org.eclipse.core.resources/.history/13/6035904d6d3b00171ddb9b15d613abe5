@@ -1,0 +1,13 @@
+package br.ufes.inf.nemo.marvin.core.controller;
+
+import javax.enterprise.context.SessionScoped;
+import javax.inject.Named;
+
+import br.ufes.inf.nemo.jbutler.ejb.controller.CrudController;
+import br.ufes.inf.nemo.marvin.core.domain.User;
+
+@Named
+@SessionScoped
+public class ManageUsersController extends CrudController<User> {
+
+}
