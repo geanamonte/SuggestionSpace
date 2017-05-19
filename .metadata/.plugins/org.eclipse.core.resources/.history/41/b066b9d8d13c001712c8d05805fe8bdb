@@ -1,0 +1,97 @@
+package br.ufes.inf.nemo.marvin.core.application;
+
+import java.util.List;
+
+import br.ufes.inf.nemo.jbutler.ejb.application.CrudException;
+import br.ufes.inf.nemo.jbutler.ejb.application.CrudServiceBean;
+import br.ufes.inf.nemo.jbutler.ejb.application.filters.Filter;
+import br.ufes.inf.nemo.jbutler.ejb.persistence.BaseDAO;
+import br.ufes.inf.nemo.marvin.core.domain.Content;
+
+public class ManageContentsServiceBean extends CrudServiceBean<T> implements ManageContentsService {
+
+	@Override
+	public void validateCreate(Content entity) throws CrudException {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void validateUpdate(Content entity) throws CrudException {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void validateDelete(Content entity) throws CrudException {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void create(Content entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Content retrieve(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void update(Content entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(Content entity) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public BaseDAO<Content> getDAO() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void authorize() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public long count() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public long countFiltered(Filter<?> filterType, String filter) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public List<Content> list(int... interval) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Content> filter(Filter<?> filter, String filterParam, int... interval) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Content fetchLazy(Content entity) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

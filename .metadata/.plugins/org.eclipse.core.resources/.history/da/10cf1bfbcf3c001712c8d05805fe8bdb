@@ -1,0 +1,12 @@
+package br.ufes.inf.nemo.marvin.core.persistence;
+
+import br.ufes.inf.nemo.jbutler.ejb.persistence.BaseDAO;
+import br.ufes.inf.nemo.jbutler.ejb.persistence.exceptions.MultiplePersistentObjectsFoundException;
+import br.ufes.inf.nemo.jbutler.ejb.persistence.exceptions.PersistentObjectNotFoundException;
+import br.ufes.inf.nemo.marvin.core.domain.Content;
+import br.ufes.inf.nemo.marvin.core.domain.User;
+
+public interface ContentDAO extends BaseDAO<Content> {
+	
+	User retrieveByName(String name) throws PersistentObjectNotFoundException, MultiplePersistentObjectsFoundException;
+}

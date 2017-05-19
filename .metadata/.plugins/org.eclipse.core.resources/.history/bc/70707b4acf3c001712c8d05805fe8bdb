@@ -1,0 +1,7 @@
+package br.ufes.inf.nemo.marvin.core.persistence;
+
+import br.ufes.inf.nemo.jbutler.ejb.persistence.BaseDAO;
+
+public interface ContentDAO extends BaseDAO<Content> {
+
+}

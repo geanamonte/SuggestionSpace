@@ -1816,3 +1816,377 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2017-05-17 21:17:21,381 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
 2017-05-17 21:17:21,383 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-05-17 21:17:21,390 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 13:30:06,024 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 13:30:06,057 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 13:30:06,182 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 13:30:06,190 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 13:47:21,054 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 13:47:21,174 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 13:47:21,177 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 13:47:21,186 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 16:39:05,790 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:39:05,917 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 16:39:05,918 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:39:05,922 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 16:45:10,759 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:45:10,776 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 16:45:10,777 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:45:10,783 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 16:45:21,469 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:45:21,474 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 16:45:21,476 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:45:21,481 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 16:45:26,172 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:45:26,218 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 16:45:26,222 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:45:26,227 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 16:56:56,638 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:56:56,672 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 16:56:56,673 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:56:56,678 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 16:58:47,440 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:58:47,457 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 16:58:47,469 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:58:47,476 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 16:59:46,144 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:59:46,157 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 16:59:46,160 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:59:46,165 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 16:59:59,014 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:59:59,026 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 16:59:59,031 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 16:59:59,036 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:00:08,366 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:00:08,371 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 17:00:08,372 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:00:08,378 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:04:03,784 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:03,867 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:04:03,872 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:03,876 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:04:14,629 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:14,639 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:04:14,641 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:14,646 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:04:26,618 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:26,630 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:04:26,636 [Worker-94] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:26,640 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:04:27,832 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:27,840 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:04:27,841 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:27,846 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:04:30,590 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:30,606 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:04:30,613 [Worker-92] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:30,618 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:04:49,136 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:49,146 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:04:49,149 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:04:49,154 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:05:56,375 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:05:56,394 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 17:05:56,399 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:05:56,405 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:07:22,875 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:07:22,887 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:07:22,889 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:07:22,894 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:09:50,697 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:09:50,716 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:09:50,722 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:09:50,729 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:10:02,732 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:10:02,741 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:10:02,745 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:10:02,750 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:10:57,705 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:10:57,718 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:10:57,724 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:10:57,728 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:11:06,588 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:11:06,599 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:11:06,601 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:11:06,606 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:11:49,014 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:11:49,025 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:11:49,030 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:11:49,034 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:12:49,905 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:12:49,915 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:12:49,916 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:12:49,921 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:14:25,577 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:14:25,601 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:14:25,613 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:14:25,623 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:14:55,462 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:14:55,472 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:14:55,474 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:14:55,479 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:16:03,836 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:16:03,858 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:16:03,863 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:16:03,868 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:16:08,698 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:16:08,706 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:16:08,708 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:16:08,714 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:16:19,006 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:16:19,021 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:16:19,026 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:16:19,030 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:17:20,939 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:17:20,949 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:17:20,950 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:17:20,955 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:19:42,087 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:19:42,099 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:19:42,103 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:19:42,107 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:20:05,512 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:20:05,520 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:20:05,521 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:20:05,525 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:20:17,906 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:20:17,928 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:20:17,933 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:20:17,939 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:24:57,615 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:24:57,624 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:24:57,625 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:24:57,630 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:25:06,670 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:25:06,681 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:25:06,686 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:25:06,690 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:25:10,310 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:25:10,371 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:25:10,374 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:25:10,399 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:25:30,243 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:25:30,254 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:25:30,273 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:25:30,277 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:26:54,196 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:26:54,204 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:26:54,206 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:26:54,210 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:27:43,708 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:27:43,721 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:27:43,726 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:27:43,731 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:29:24,389 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:29:24,397 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:29:24,399 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:29:24,403 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:29:36,823 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:29:36,834 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:29:36,839 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:29:36,843 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:30:47,836 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:30:47,847 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:30:47,849 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:30:47,854 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:32:19,209 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:32:19,221 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:32:19,226 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:32:19,230 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:32:27,833 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:32:27,841 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:32:27,842 [Worker-105] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:32:27,846 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:32:31,932 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:32:31,943 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:32:31,948 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:32:31,952 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:33:02,391 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:33:02,403 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:33:02,404 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:33:02,410 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:38:46,606 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:38:46,620 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:38:46,625 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:38:46,630 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:38:51,821 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:38:51,830 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:38:51,831 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:38:51,835 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:39:01,784 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:39:01,799 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:39:01,804 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:39:01,810 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:39:27,284 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:39:27,292 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:39:27,294 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:39:27,298 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:39:34,824 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:39:34,836 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:39:34,841 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:39:34,846 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:39:58,014 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:39:58,022 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:39:58,024 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:39:58,028 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:40:02,961 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:02,972 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:40:02,977 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:02,981 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:40:35,583 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:35,599 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:40:35,601 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:35,610 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:40:37,950 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:37,972 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:40:37,981 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:37,989 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:40:47,790 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:47,798 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:40:47,800 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:47,805 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:40:50,183 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:50,194 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:40:50,198 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:40:50,202 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:41:37,707 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:41:37,725 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:41:37,727 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:41:37,732 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:41:39,194 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:41:39,205 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:41:39,210 [Worker-109] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:41:39,215 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:57:46,689 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:57:46,729 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:57:46,730 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:57:46,741 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:57:54,139 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:57:54,150 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:57:54,154 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:57:54,158 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:57:56,500 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:57:56,508 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:57:56,510 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:57:56,514 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:57:59,866 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:57:59,880 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:57:59,884 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:57:59,889 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:58:15,358 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:58:15,375 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:58:15,377 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:58:15,381 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:58:21,709 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:58:21,722 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:58:21,728 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:58:21,732 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:58:29,132 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:58:29,148 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:58:29,150 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:58:29,155 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:59:11,330 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:59:11,355 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:59:11,362 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:59:11,367 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:59:16,345 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:59:16,354 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:59:16,356 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:59:16,360 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:59:18,612 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:59:18,633 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:59:18,639 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:59:18,643 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 17:59:23,779 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:59:23,798 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 17:59:23,800 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 17:59:23,803 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:03:11,436 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:03:11,491 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 18:03:11,497 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:03:11,501 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:03:55,200 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:03:55,214 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:03:55,216 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:03:55,221 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:04:01,840 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:04:01,852 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:04:01,857 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:04:01,861 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:04:05,224 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:04:05,232 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:04:05,234 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:04:05,238 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:04:07,834 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:04:07,856 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:04:07,865 [Worker-121] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:04:07,872 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:06:58,455 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:06:58,521 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:06:58,522 [Worker-120] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:06:58,529 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:07:03,510 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace
+2017-05-19 18:07:03,515 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-05-19 18:07:11,293 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:07:11,315 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:07:11,398 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:07:11,409 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:07:11,414 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SuggestionSpace
+2017-05-19 18:07:11,468 [Worker-126] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SuggestionSpace
+2017-05-19 18:07:11,590 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:13:47,191 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:13:47,225 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 18:13:47,226 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:13:47,234 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:14:15,268 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:14:15,276 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 18:14:15,280 [Worker-127] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:14:15,288 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:14:51,685 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace
+2017-05-19 18:14:51,686 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-05-19 18:14:55,098 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:14:55,164 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:14:55,219 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:14:55,227 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:14:55,227 [Worker-129] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SuggestionSpace
+2017-05-19 18:14:55,231 [Worker-129] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SuggestionSpace
+2017-05-19 18:14:55,239 [Worker-129] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:15:01,810 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace
+2017-05-19 18:15:01,810 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-05-19 18:15:06,920 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:15:06,954 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 18:15:06,966 [Worker-126] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:15:06,972 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:15:33,204 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:15:33,213 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:15:33,255 [Worker-125] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:15:33,260 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:15:35,725 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace
+2017-05-19 18:15:35,728 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-05-19 18:16:04,874 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:16:04,913 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-19 18:16:04,926 [Worker-128] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:16:04,934 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:20:08,131 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace
+2017-05-19 18:20:08,132 [Worker-129] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-05-19 18:20:20,686 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace
+2017-05-19 18:20:20,702 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-05-19 18:20:27,038 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:20:27,073 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:20:27,090 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:20:27,098 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:20:27,103 [Worker-122] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SuggestionSpace
+2017-05-19 18:20:27,103 [Worker-122] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SuggestionSpace
+2017-05-19 18:20:27,117 [Worker-122] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:21:05,208 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:21:05,219 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:21:05,299 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:21:05,304 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:21:06,552 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace
+2017-05-19 18:21:06,552 [Worker-37] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-05-19 18:21:09,582 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:21:09,656 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2017-05-19 18:21:09,693 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-19 18:21:09,701 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Jordão.JORDAO-DESKTOP\Documents\GitHub\SuggestionSpace\SuggestionSpace\src\test\resources
+2017-05-19 18:21:09,701 [Worker-119] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SuggestionSpace
+2017-05-19 18:21:09,705 [Worker-119] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SuggestionSpace
+2017-05-19 18:21:09,709 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!

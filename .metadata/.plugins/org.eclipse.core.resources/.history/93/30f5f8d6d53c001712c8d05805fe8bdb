@@ -1,0 +1,10 @@
+package br.ufes.inf.nemo.marvin.core.domain;
+
+import javax.persistence.Entity;
+
+import br.ufes.inf.nemo.jbutler.ejb.persistence.PersistentObjectSupport;
+
+@Entity
+public class Genre extends PersistentObjectSupport {
+
+}

@@ -1,0 +1,100 @@
+package br.ufes.inf.nemo.marvin.core.persistence;
+
+import java.util.List;
+
+import br.ufes.inf.nemo.jbutler.ejb.application.filters.Filter;
+import br.ufes.inf.nemo.jbutler.ejb.persistence.BaseJPADAO;
+import br.ufes.inf.nemo.jbutler.ejb.persistence.exceptions.MultiplePersistentObjectsFoundException;
+import br.ufes.inf.nemo.jbutler.ejb.persistence.exceptions.PersistentObjectNotFoundException;
+import br.ufes.inf.nemo.marvin.core.domain.Content;
+import br.ufes.inf.nemo.marvin.core.domain.User;
+
+public class ContentJPADAO extends BaseJPADAO<Content> implements ContentDAO {
+
+	@Override
+	public Class<Content> getDomainClass() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public long retrieveCount() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public long retrieveFilteredCount(Filter<?> filter, String value) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public List<Content> retrieveAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Content> retrieveWithFilter(Filter<?> filter, String value) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Content> retrieveSome(int[] interval) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public List<Content> retrieveSomeWithFilter(Filter<?> filter, String value, int[] interval) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Content retrieveById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Content retrieveByUuid(String uuid)
+			throws PersistentObjectNotFoundException, MultiplePersistentObjectsFoundException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void save(Content object) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void delete(Content object) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public Content merge(Content object) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Content refresh(Content object) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public User retrieveByName(String name)
+			throws PersistentObjectNotFoundException, MultiplePersistentObjectsFoundException {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
